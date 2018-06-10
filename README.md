@@ -7,3 +7,8 @@ Brute Force Methode  **über** 20 Stellen möglich, (Decimal nach ulong Array)  
 Eingabe in Decimal 29 Stellen möglich, dann Umwandlung in den schnellen Datentyp ulong (Array).
 
 Dadurch über 20 Stellen möglich ohne ewig auf die Ergebnisse warten zu müssen! :)))))
+
+---
+
+Siehe auch mit Parallel.For Schleife!   
+[link](https://github.com/sauternic/Primzahlen-Suchen_5)
