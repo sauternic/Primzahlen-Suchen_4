@@ -12,3 +12,6 @@ Dadurch über 20 Stellen möglich ohne ewig auf die Ergebnisse warten zu müssen
 
 Siehe auch mit Parallel.For Schleife!   
 [link](https://github.com/sauternic/Primzahlen-Suchen_5)
+
+
+[Website for primes ... up to 16 digits](https://sauternic.github.io/JavaScript_Primzahlen_Auflisten/)
